@@ -7,8 +7,8 @@ DynamicJsonDocument docs1(1024);
 DynamicJsonDocument docs2(1024);
 WiFiClient client;
 PubSubClient mqtt(client);
-#define WIFI_STA_NAME "มีแครอทนะ"
-#define WIFI_STA_PASS "0638263001Fon"
+#define WIFI_STA_NAME " "
+#define WIFI_STA_PASS " "
 #define MQTT_SERVER "electsut.trueddns.com"
 #define MQTT_PORT 27860
 #define MQTT_USERNAME ""
